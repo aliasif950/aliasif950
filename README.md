@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Ali 👋
+Computer Science student from Pakistan, interested in AI and data pipelines.
 
-<!--
-**aliasif950/aliasif950** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I'm working on
+- Learning Python for AI (generators, decorators, functional tools)
+- Building C++ projects with OOP and file handling
 
-Here are some ideas to get you started:
+## Tech
+C++ · Python · Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [ptbxl-mi-data-pipeline](link) – lazy ECG data pipeline in pure Python
+- [Library-Management-System](link) – C++ menu-driven system with file handling
+- [Digital-Access-and-Control-System](link) - C++ Access system using OOP concepts
