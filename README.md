@@ -1,5 +1,5 @@
 # Hi, I'm Ali 👋
-Computer Science student from Pakistan, interested in AI and data pipelines.
+Computer Science student from Pakistan, interested in AI.
 
 ## What I'm working on
 - Learning Python for AI (generators, decorators, functional tools)
