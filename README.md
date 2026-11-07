@@ -6,7 +6,7 @@ Computer Science student from Pakistan, interested in AI.
 - Building C++ projects with OOP and file handling
 
 ## Tech
-C++ · Python · Git
+C++ · C · Python · MySQL 
 
 ## Projects
 - [ptbxl-mi-data-pipeline](link) – lazy ECG data pipeline in pure Python
