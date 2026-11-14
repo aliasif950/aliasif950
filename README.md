@@ -2,8 +2,8 @@
 Computer Science student from Pakistan, interested in AI.
 
 ## What I'm working on
-- Learning Python for AI (generators, decorators, functional tools)
-- Building C++ projects with OOP and file handling
+- Learning Python for AI
+- Building C++ and Python projects
 
 ## Tech
 C++ · C · Python · MySQL 
