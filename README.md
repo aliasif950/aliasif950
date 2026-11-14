@@ -9,6 +9,6 @@ Computer Science student from Pakistan, interested in AI.
 C++ · C · Python · MySQL 
 
 ## Projects
-- [ptbxl-mi-data-pipeline](link) – lazy ECG data pipeline in pure Python
-- [Library-Management-System](link) – C++ menu-driven system with file handling
-- [Digital-Access-and-Control-System](link) - C++ Access system using OOP concepts
+- [ptbxl-mi-data-pipeline](https://github.com/aliasif950/ptbxl-mi-data-pipeline) – lazy ECG data pipeline in pure Python
+- [Library-Management-System](https://github.com/aliasif950/Library-Management-System) – C++ menu-driven system with file handling
+- [Digital-Access-and-Control-System](https://github.com/aliasif950/Digital-Access-and-Control-System) - C++ Access system using OOP concepts
